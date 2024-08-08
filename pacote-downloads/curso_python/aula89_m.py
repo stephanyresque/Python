@@ -1,0 +1,1 @@
+print('EU AMO A NAT')

@@ -1,0 +1,6 @@
+print('1', type('1'))
+print(int('1'), type(int('1')))
+print(int('1') + 1)
+print(1.3 + 2)
+print(float(22))
+print(str(2) + 'B')
